@@ -1,0 +1,2 @@
+npm install core-js -- core js indirdik
+npm install vue-router@next --router indirdik
